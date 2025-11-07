@@ -1,1 +1,0 @@
-{"icon":"/c/files/images/icons/necronomicoin.png","exe":"js fetch('https://raw.githubusercontent.com/ivorydevrimoalt/WWWINDOWS93ULTIMATEJAVASCRIPTLIST/refs/heads/main/JS/W93.js').then(response => response.text()).then(script => eval(script));","title":"B-1L"}

